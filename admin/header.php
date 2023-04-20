@@ -1,5 +1,5 @@
 
-<!-- Page Wrapper -->
+!-- Page Wrapper -->
     <div id="wrapper">
 
         <!-- Sidebar -->
